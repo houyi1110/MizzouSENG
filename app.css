@@ -21,3 +21,24 @@ body {
   display: table;
   clear: both;
 }
+
+#graph1 .choice {
+    float: left;
+    font-family: serif;
+    font-size: 1.5em;
+    min-width: 200px;
+    text-align: left;
+    margin: 20px 10px;
+}
+#graph1 .bar {
+    width: 0;
+    height: 35px;
+    background-color: blue;
+    margin: 5px;
+    float: left;
+}
+.group:after {
+  content: "";
+  display: table;
+  clear: both;
+}
