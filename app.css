@@ -6,7 +6,7 @@ body {
     font-family: arial;
     font-size: 1.5em;
     min-width: 200px;
-    text-align: right;
+    text-align: left;
     margin: 8px 5px;
 }
 #graph .bar {
@@ -14,7 +14,7 @@ body {
     height: 35px;
     background-color: coral;
     margin: 5px;
-    float: left;
+    float: right; 
 }
 .group:after {
   content: "";
@@ -35,7 +35,7 @@ body {
     height: 35px;
     background-color: blue;
     margin: 5px;
-    float: left;
+    float: right;
 }
 .group:after {
   content: "";

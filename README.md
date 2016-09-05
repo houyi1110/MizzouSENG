@@ -8,4 +8,4 @@ http://elections.huffingtonpost.com/pollster/api/charts/2016-national-democratic
   *Changed the font to serif. 
   *Changed the margin to '20px 10px' 
   *Changed the bar color to blue.
-
+  *changed the bar to float right for aesthetics. KBZG4
